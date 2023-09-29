@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/sshukla1250/LearnNodejs/issues"
   },
-  "homepage": "https://github.com/sshukla1250/LearnNodejs#readme"
+  "homepage": "https://github.com/sshukla1250/LearnNodejs#readme",
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
 }
