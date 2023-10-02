@@ -1,0 +1,8 @@
+Node js is async->means no sequence of execution if current step is taking time then it jumped to next step for execution.
+Node js is single threaded
+
+Q. Kya kis drive se file or data le sakte hai kya?
+ans:No
+
+Synchronous: In Synchronous operations tasks are performed one at a time.
+Asynchronous: In Asynchronous, Second task do not wait to finish first task.
