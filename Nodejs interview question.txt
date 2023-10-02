@@ -5,4 +5,4 @@ Q. Kya kis drive se file or data le sakte hai kya?
 ans:No
 
 Synchronous: In Synchronous operations tasks are performed one at a time.
-Asynchronous: In Asynchronous, Second task do not wait to finish first task.
+Asynchronous: In Asynchronous, Second task do not wait to finish first task.nn
