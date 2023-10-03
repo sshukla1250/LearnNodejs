@@ -8,3 +8,12 @@ Synchronous: In Synchronous operations tasks are performed one at a time.
 Asynchronous: In Asynchronous, Second task do not wait to finish first task.
 
 express.static():is used for load static content/static pages.
+
+Q:how to remove extension from the calling URL?
+
+Q: How can we make 404 page and what is it?
+
+Q: How can we load file in get method?
+Ans: res.sendFile(`${publicPath}/help.html`); using sendFile method of response object.
+
+
